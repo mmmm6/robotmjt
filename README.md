@@ -1,2 +1,1 @@
-# robotmjt
-ربات تلگرام  MJT
+permag.ir
